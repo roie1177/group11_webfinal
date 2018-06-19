@@ -1,55 +1,55 @@
 
 function genstory(number){
 	if(number==1){
-		document.getElementById("Introduction").innerHTML = "海門天險<img  src='img/1_canon.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "海門天險<img  src='img/1_canon.jpg' height='150px'></br>";
 	}
 	if(number==2){
-		document.getElementById("Introduction").innerHTML = "和平島<img  src='img/和平島.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "和平島<img  src='img/和平島.jpg' height='150px' ></br>";
 	}
     if(number==3){
-		document.getElementById("Introduction").innerHTML = "海洋大學 女舍<img  src='img/女宿舍.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "海洋大學 女舍<img  src='img/女宿舍.jpg' height='150px' ></br>";
 	}
 	if(number==4){
-		document.getElementById("Introduction").innerHTML = "海洋大學 龍岡步道<img  src='img/龍岡步道.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "海洋大學 龍岡步道<img  src='img/龍岡步道.jpg' height='150px' ></br>";
 	}
     if(number==5){
-		document.getElementById("Introduction").innerHTML = "海洋大學 男二宿舍<img  src='img/男宿.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "海洋大學 男二宿舍<img  src='img/男宿.jpg' height='150px' ></br>";
 	}
 	if(number==6){
-		document.getElementById("Introduction").innerHTML = "海洋大學 101號房<img  src='img/男宿舍.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "海洋大學 101號房<img  src='img/男宿舍.jpg' height='150px' ></br>";
 	}
     if(number==7){
-		document.getElementById("Introduction").innerHTML = "海洋大學 海事大樓<img  src='img/海事大樓.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "海洋大學 海事大樓<img  src='img/海事大樓.jpg' height='150px' ></br>";
 	}
 	if(number==8){
-		document.getElementById("Introduction").innerHTML = "蝙蝠洞<img  src='img/蝙蝠洞.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "蝙蝠洞<img  src='img/蝙蝠洞.jpg' height='150px' ></br>";
 	}
     if(number==9){
-		document.getElementById("Introduction").innerHTML = "基隆七號房<img  src='img/基隆七號房.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "基隆七號房<img  src='img/基隆七號房.jpg' height='150px' ></br>";
 	}
 	if(number==10){
-		document.getElementById("Introduction").innerHTML = "基隆鬼屋<img  src='img/基隆鬼屋.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "基隆鬼屋<img  src='img/基隆鬼屋.jpg' height='150px' ></br>";
 	}
     if(number==11){
-		document.getElementById("Introduction").innerHTML = "淨因寺<img  src='img/淨因寺.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "淨因寺<img  src='img/淨因寺.jpg' height='150px' ></br>";
 	}
 	if(number==12){
-		document.getElementById("Introduction").innerHTML = "情人湖<img  src='img/情人湖.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "情人湖<img  src='img/情人湖.jpg' height='150px' ></br>";
 	}
     if(number==13){
-		document.getElementById("Introduction").innerHTML = "大武崙砲台<img  src='img/大武崙砲台.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "大武崙砲台<img  src='img/大武崙砲台.jpg' height='150px' ></br>";
 	}
 	if(number==14){
-		document.getElementById("Introduction").innerHTML = "自強隧道<img  src='img/自強.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "自強隧道<img  src='img/自強.jpg' height='150px' ></br>";
 	}
     if(number==15){
-		document.getElementById("Introduction").innerHTML = "劉銘傳隧道<img  src='img/1_canon.jpg' height='150px' alt='123123'></br>";
+		document.getElementById("Introduction").innerHTML = "劉銘傳隧道<img  src='img/1_canon.jpg' height='150px' ></br>";
 	}
 
     
 }
 function clean(){
-	document.getElementById("Introduction").innerHTML = "choose<img  src='img/ghost.png' height='150px' alt='123123'></br>";
+	document.getElementById("Introduction").innerHTML = "choose<img  src='img/ghost.png' height='150px' ></br>";
 }
 
 var playflag=0;
